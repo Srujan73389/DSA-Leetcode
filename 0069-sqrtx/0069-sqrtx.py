@@ -1,18 +1,16 @@
-class Solution:
+class Solution(object):
     def mySqrt(self, x):
-        L, R = 1, x
-
-        while L <= R:
-            M = (L+R) // 2
-            M_squared = M * M
-
-            if M_squared == x:
+        l=1
+        R=x
+        while l<=R:
+            M=(l+R)//2
+            if M*M==x:
                 return M
-
-            elif M_squared < x:
-                L = M + 1
-
+            elif M*M<x:
+                l=M+1
             else:
-                R = M - 1
-
+                R=M-1
         return R
+
+        
+        
