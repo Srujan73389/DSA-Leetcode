@@ -10,6 +10,7 @@ My Leetcode Solutions in Python.
 | [0011-container-with-most-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -66,4 +68,8 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
