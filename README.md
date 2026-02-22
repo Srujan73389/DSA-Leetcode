@@ -12,6 +12,7 @@ My Leetcode Solutions in Python.
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
