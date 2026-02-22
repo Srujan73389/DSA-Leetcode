@@ -56,9 +56,14 @@ My Leetcode Solutions in Python.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
