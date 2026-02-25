@@ -22,6 +22,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0001-two-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0015-3sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +72,7 @@ My Leetcode Solutions in Python.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
