@@ -18,6 +18,7 @@ My Leetcode Solutions in Python.
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ My Leetcode Solutions in Python.
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +103,12 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
