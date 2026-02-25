@@ -14,6 +14,7 @@ My Leetcode Solutions in Python.
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
@@ -22,6 +23,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0001-two-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -39,6 +41,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0015-3sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -85,6 +88,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -93,4 +97,8 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
