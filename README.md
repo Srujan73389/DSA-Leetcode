@@ -21,6 +21,7 @@ My Leetcode Solutions in Python.
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ My Leetcode Solutions in Python.
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,12 +111,14 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
