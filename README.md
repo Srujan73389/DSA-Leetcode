@@ -11,6 +11,7 @@ My Leetcode Solutions in Python.
 | [0015-3sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -29,6 +30,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0001-two-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -48,6 +50,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -87,6 +90,7 @@ My Leetcode Solutions in Python.
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0344-reverse-string) |
