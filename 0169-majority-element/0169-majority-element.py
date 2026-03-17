@@ -4,9 +4,7 @@ class Solution(object):
         for i in range(len(nums)):
             if (count==0):
                 ans=nums[i]
-            if ans==nums[i]:
-                count+=1
-            else:
-                count-=1
+            count+=(1 if ans==nums[i] else -1)
+            
         return ans
         
