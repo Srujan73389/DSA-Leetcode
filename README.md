@@ -18,6 +18,7 @@ My Leetcode Solutions in Python.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@ My Leetcode Solutions in Python.
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -59,6 +61,7 @@ My Leetcode Solutions in Python.
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
