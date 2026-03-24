@@ -21,6 +21,7 @@ My Leetcode Solutions in Python.
 | [0217-contains-duplicate](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ My Leetcode Solutions in Python.
 | [0125-valid-palindrome](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -87,6 +89,7 @@ My Leetcode Solutions in Python.
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -152,4 +155,5 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
