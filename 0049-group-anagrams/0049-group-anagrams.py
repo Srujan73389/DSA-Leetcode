@@ -1,13 +1,13 @@
 class Solution(object):
     def groupAnagrams(self, strs):
         grouped={}
-        for i in strs:
-            sorte=''.join(sorted(i))
-            if sorte in grouped:
-                grouped[sorte].append(i)
-                
+        for word in strs:
+            sort=''.join(sorted(word))
+            if sort in grouped:
+                grouped[sort].append(word)
             else:
-                grouped[sorte]=[i]
+                grouped[sort]=[word]
         return list(grouped.values())
-      
+        
+        
         
