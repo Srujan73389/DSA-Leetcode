@@ -8,6 +8,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0001-two-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
@@ -103,6 +104,7 @@ My Leetcode Solutions in Python.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
@@ -156,4 +158,8 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0136-single-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
