@@ -8,7 +8,3 @@ class Solution(object):
                 if(i==len(word) or base[i]!=word[i]):
                     return base[0:i]
         return base
-            
-
-       
-        
