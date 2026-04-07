@@ -1,13 +1,15 @@
 class Solution(object):
     def groupAnagrams(self, strs):
+        """
+        :type strs: List[str]
+        :rtype: List[List[str]]
+        """
         grouped={}
-        for word in strs:
-            sort=''.join(sorted(word))
-            if sort in grouped:
-                grouped[sort].append(word)
+        for i in strs:
+            sorte="".join(sorted(i))
+            if sorte in grouped:
+                grouped[sorte].append(i)
             else:
-                grouped[sort]=[word]
+                grouped[sorte]=[i]
         return list(grouped.values())
-        
-        
         
