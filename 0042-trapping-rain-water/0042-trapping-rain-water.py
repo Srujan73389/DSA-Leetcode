@@ -4,7 +4,7 @@ class Solution(object):
         water=0
         left_m,right_m=height[left],height[right]
         while left <right:
-            if left_m <right_m:
+            if left_m <=right_m:
                 left+=1
                 left_m=max(left_m,height[left])
                 water+=left_m-height[left]
