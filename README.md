@@ -43,6 +43,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0169-majority-element) |
@@ -126,6 +127,7 @@ My Leetcode Solutions in Python.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0125-valid-palindrome) |
@@ -159,6 +161,7 @@ My Leetcode Solutions in Python.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
