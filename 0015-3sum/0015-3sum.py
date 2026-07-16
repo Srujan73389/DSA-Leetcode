@@ -1,7 +1,7 @@
-class Solution(object):
-    def threeSum(self, nums):
+class Solution:
+    def threeSum(self, nums: list[int]) -> list[list[int]]:
         nums.sort()
-        res=[]
+        answer=[]
         for i in range(len(nums)-2):
             if i>0 and nums[i]==nums[i-1]:
                 continue
@@ -15,11 +15,12 @@ class Solution(object):
                     r-=1
                 else:
                     triplet=[nums[i],nums[l],nums[r]]
-                    res.append(triplet)
+                    answer.append(triplet)
                     while l<r and nums[l]==triplet[1]:
                         l+=1
                     while l<r and nums[r]==triplet[2]:
                         r-=1
-        return res
-        
+        return answer
+            
+
         
