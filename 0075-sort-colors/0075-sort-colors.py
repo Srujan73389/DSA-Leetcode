@@ -11,7 +11,7 @@ class Solution:
                 m+=1
             elif nums[m]==1:
                 m+=1
-            elif nums[m]==2:
+            else:
                 nums[m],nums[h]=nums[h],nums[m]
                 h-=1
         
