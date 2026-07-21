@@ -1,10 +1,10 @@
-class Solution(object):
-    def majorityElement(self, nums):
-        count,res=0,0
-        for i in nums:
-            if count==0:
-                res=i
-            count+=(1 if i==res else -1)
-        return res
-        
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        element=0
+        counts=0
+        for num in nums:
+            if counts==0:
+                element=num
+            counts+=1 if num==element else -1
+        return element
         
