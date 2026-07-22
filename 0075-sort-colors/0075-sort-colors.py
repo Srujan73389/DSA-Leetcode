@@ -14,4 +14,5 @@ class Solution:
             else:
                 nums[m],nums[h]=nums[h],nums[m]
                 h-=1
+        return nums
         
