@@ -1,8 +1,10 @@
-class Solution(object):
-    def rotate(self, nums, k):
+class Solution:
+    def rotate(self, nums: List[int], k: int) -> None:
+        """
+        Do not return anything, modify nums in-place instead.
+        """
         k=k%len(nums)
-        n=len(nums)-1
-        l,r=0,n
+        l,r=0,len(nums)-1
         while l<r:
             nums[l],nums[r]=nums[r],nums[l]
             l+=1
@@ -12,11 +14,10 @@ class Solution(object):
             nums[l],nums[r]=nums[r],nums[l]
             l+=1
             r-=1
-        l,r=k,n
+        l,r=k,len(nums)-1
         while l<r:
             nums[l],nums[r]=nums[r],nums[l]
             l+=1
             r-=1
-
-       
+        
         
