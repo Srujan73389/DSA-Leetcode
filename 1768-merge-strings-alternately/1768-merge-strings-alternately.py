@@ -1,6 +1,6 @@
-class Solution(object):
-    def mergeAlternately(self, word1, word2):
-        i=j=0
+class Solution:
+    def mergeAlternately(self, word1: str, word2: str) -> str:
+        i,j=0,0
         res=[]
         while i<len(word1) and j<len(word2):
             res.append(word1[i])
@@ -10,6 +10,6 @@ class Solution(object):
         res.append(word1[i:])
         res.append(word2[j:])
         return "".join(res)
-        
+
 
         
