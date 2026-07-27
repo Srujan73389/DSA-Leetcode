@@ -92,6 +92,7 @@ My Leetcode Solutions in Python.
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
+| [3536-maximum-product-of-two-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -133,6 +134,7 @@ My Leetcode Solutions in Python.
 | [0189-rotate-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
