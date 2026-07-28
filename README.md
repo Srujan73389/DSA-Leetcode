@@ -208,6 +208,7 @@ My Leetcode Solutions in Python.
 | [0136-single-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0461-hamming-distance](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0461-hamming-distance) |
 ## Trie
 |  |
 | ------- |
