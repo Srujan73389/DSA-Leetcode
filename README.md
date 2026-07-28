@@ -136,6 +136,7 @@ My Leetcode Solutions in Python.
 | [0050-powx-n](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0342-power-of-four](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -157,6 +158,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -208,6 +210,7 @@ My Leetcode Solutions in Python.
 | [0136-single-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0461-hamming-distance) |
 ## Trie
 |  |
