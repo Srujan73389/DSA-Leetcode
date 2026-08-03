@@ -246,4 +246,8 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0877-stone-game) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
