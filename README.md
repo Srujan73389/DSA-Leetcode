@@ -148,6 +148,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0268-missing-number) |
@@ -165,6 +166,7 @@ My Leetcode Solutions in Python.
 | [0005-longest-palindromic-substring](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -223,10 +225,12 @@ My Leetcode Solutions in Python.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1929-concatenation-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0268-missing-number) |
