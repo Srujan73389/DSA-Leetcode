@@ -90,6 +90,7 @@ My Leetcode Solutions in Python.
 | [0283-move-zeroes](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
@@ -186,6 +187,7 @@ My Leetcode Solutions in Python.
 | [0125-valid-palindrome](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0917-reverse-only-letters) |
