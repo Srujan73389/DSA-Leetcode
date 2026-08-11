@@ -17,6 +17,7 @@ My Leetcode Solutions in Python.
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,6 +124,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -133,6 +135,7 @@ My Leetcode Solutions in Python.
 | [0005-longest-palindromic-substring](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
