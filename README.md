@@ -15,6 +15,7 @@ My Leetcode Solutions in Python.
 | [0027-remove-element](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
@@ -124,6 +125,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
@@ -134,6 +136,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
