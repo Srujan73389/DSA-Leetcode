@@ -139,6 +139,7 @@ My Leetcode Solutions in Python.
 | [0045-jump-game-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
@@ -171,6 +172,7 @@ My Leetcode Solutions in Python.
 | [0050-powx-n](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0342-power-of-four) |
@@ -221,6 +223,7 @@ My Leetcode Solutions in Python.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 ## Counting
 |  |
