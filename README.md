@@ -43,6 +43,7 @@ My Leetcode Solutions in Python.
 | [0628-maximum-product-of-three-numbers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -144,6 +145,7 @@ My Leetcode Solutions in Python.
 | [0338-counting-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0877-stone-game) |
 ## Stack
 |  |
