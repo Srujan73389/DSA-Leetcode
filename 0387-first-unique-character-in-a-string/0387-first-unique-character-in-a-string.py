@@ -1,10 +1,10 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        count={}
+        freq={}
         for n in s:
-            count[n]=count.get(n,0)+1
+            freq[n]=freq.get(n,0)+1
         for i in range(len(s)):
-            if count[s[i]]==1:
+            if freq[s[i]]==1:
                 return i
         return -1
         
