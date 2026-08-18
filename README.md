@@ -74,6 +74,7 @@ My Leetcode Solutions in Python.
 | [0560-subarray-sum-equals-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -204,6 +205,7 @@ My Leetcode Solutions in Python.
 | [0680-valid-palindrome-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0917-reverse-only-letters) |
 | [1768-merge-strings-alternately](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Recursion
@@ -236,6 +238,7 @@ My Leetcode Solutions in Python.
 | [0347-top-k-frequent-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
@@ -275,6 +278,7 @@ My Leetcode Solutions in Python.
 | [0342-power-of-four](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0461-hamming-distance](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0461-hamming-distance) |
+| [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
