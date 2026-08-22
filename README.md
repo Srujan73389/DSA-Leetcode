@@ -187,6 +187,7 @@ My Leetcode Solutions in Python.
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0371-sum-of-two-integers) |
@@ -276,6 +277,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -325,4 +327,8 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
