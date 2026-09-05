@@ -65,6 +65,7 @@ My Leetcode Solutions in Python.
 | [3731-find-missing-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -294,6 +295,7 @@ My Leetcode Solutions in Python.
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [3903-smallest-stable-index-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Simulation
 |  |
 | ------- |
