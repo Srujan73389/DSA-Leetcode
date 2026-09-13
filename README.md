@@ -48,6 +48,7 @@ My Leetcode Solutions in Python.
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
@@ -268,6 +269,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
+| [0835-image-overlap](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 ## Memoization
 |  |
