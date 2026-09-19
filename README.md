@@ -219,6 +219,7 @@ My Leetcode Solutions in Python.
 | [0877-stone-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -389,4 +390,5 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
