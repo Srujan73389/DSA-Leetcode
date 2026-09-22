@@ -225,6 +225,7 @@ My Leetcode Solutions in Python.
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2485-find-the-pivot-integer](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -320,6 +321,7 @@ My Leetcode Solutions in Python.
 | [0724-find-pivot-index](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
