@@ -48,6 +48,7 @@ My Leetcode Solutions in Python.
 | [0628-maximum-product-of-three-numbers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0867-transpose-matrix) |
@@ -316,6 +317,7 @@ My Leetcode Solutions in Python.
 | [0523-continuous-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
