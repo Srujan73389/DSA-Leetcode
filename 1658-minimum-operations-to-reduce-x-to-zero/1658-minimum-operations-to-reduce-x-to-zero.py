@@ -3,23 +3,20 @@ class Solution:
         n=len(nums)
         total=sum(nums)
         target=total-x
-
-        if target < 0:
-            return -1
-        if target == 0:
-            return n
-        mp={0:-1}
+        start=end=0
         max_len=-1
-        prefix_sum=0
-        for i,num in enumerate(nums):
-            prefix_sum+=num
-            required=prefix_sum-target
-            if required in mp:
-                max_len=max(max_len,i-mp[required])
-            if prefix_sum not in mp:
-                mp[prefix_sum]=i
+        pref=0
+        while end<n:
+            pref+=nums[end]
+            while pref>target and start <= end:
+                pref-=nums[start]
+                start+=1
+            if pref==target:
+                max_len=max(max_len,end-start+1)
+            end+=1
         if max_len==-1:
             return -1
         return n-max_len
 
+        
         
