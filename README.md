@@ -61,6 +61,7 @@ My Leetcode Solutions in Python.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1929-concatenation-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -97,6 +98,7 @@ My Leetcode Solutions in Python.
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -204,6 +206,7 @@ My Leetcode Solutions in Python.
 | [0704-binary-search](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -309,6 +312,7 @@ My Leetcode Solutions in Python.
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -321,6 +325,7 @@ My Leetcode Solutions in Python.
 | [0724-find-pivot-index](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3904-smallest-stable-index-ii) |
