@@ -8,7 +8,7 @@ class Solution:
             if s[i]=='(':
                 i+=1
                 key=""
-                while i<n and s[i]!=')':
+                while  s[i]!=')':
                     key+=s[i]
                     i+=1
                 res.append(mp.get(key,"?"))
