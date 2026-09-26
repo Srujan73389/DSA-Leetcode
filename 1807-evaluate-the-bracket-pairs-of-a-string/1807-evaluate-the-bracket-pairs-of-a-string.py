@@ -1,6 +1,6 @@
 class Solution:
     def evaluate(self, s: str, knowledge: list[list[str]]) -> str:
-        mp = {k: v for k, v in knowledge}
+        mp = dict(knowledge)
         i=0
         n=len(s)
         res=[]
