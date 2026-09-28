@@ -1,7 +1,7 @@
 class Solution:
     def greatestLetter(self, s: str) -> str:
-        res=""
         curr_ord=0
+        res=""
         dic={}
         for ch in s:
             dic[ch]=ord(ch)
@@ -12,4 +12,5 @@ class Solution:
                     curr_ord=ord(s[i])
         return res
         
+
         
