@@ -104,6 +104,7 @@ My Leetcode Solutions in Python.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -269,6 +270,7 @@ My Leetcode Solutions in Python.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -390,6 +392,7 @@ My Leetcode Solutions in Python.
 ## Enumeration
 |  |
 | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Queue
 |  |
