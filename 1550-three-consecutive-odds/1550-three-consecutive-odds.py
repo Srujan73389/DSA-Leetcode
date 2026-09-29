@@ -6,7 +6,7 @@ class Solution:
                 odd_count+=1
                 if odd_count==3:
                     return True
-            elif arr[i]%2==0:
+            else:
                 odd_count=0
         return False
             
