@@ -194,6 +194,7 @@ My Leetcode Solutions in Python.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -255,6 +256,7 @@ My Leetcode Solutions in Python.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
@@ -432,6 +434,7 @@ My Leetcode Solutions in Python.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
