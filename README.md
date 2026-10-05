@@ -202,6 +202,7 @@ My Leetcode Solutions in Python.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
+| [0856-score-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -277,6 +278,7 @@ My Leetcode Solutions in Python.
 | [0567-permutation-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -444,6 +446,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
