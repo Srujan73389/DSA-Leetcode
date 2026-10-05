@@ -62,6 +62,7 @@ My Leetcode Solutions in Python.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1550-three-consecutive-odds](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1550-three-consecutive-odds) |
+| [1640-check-array-formation-through-concatenation](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -103,6 +104,7 @@ My Leetcode Solutions in Python.
 | [0904-fruit-into-baskets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1640-check-array-formation-through-concatenation](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
