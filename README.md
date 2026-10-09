@@ -207,6 +207,7 @@ My Leetcode Solutions in Python.
 | [0042-trapping-rain-water](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -285,6 +286,7 @@ My Leetcode Solutions in Python.
 | [0856-score-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -453,6 +455,7 @@ My Leetcode Solutions in Python.
 | [0020-valid-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
