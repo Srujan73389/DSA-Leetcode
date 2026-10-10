@@ -70,6 +70,7 @@ My Leetcode Solutions in Python.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2784-check-if-array-is-good](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3524-find-x-value-of-array-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +112,7 @@ My Leetcode Solutions in Python.
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2784-check-if-array-is-good](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -165,6 +167,7 @@ My Leetcode Solutions in Python.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2784-check-if-array-is-good](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3731-find-missing-elements) |
