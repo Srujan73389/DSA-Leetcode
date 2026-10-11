@@ -70,6 +70,7 @@ My Leetcode Solutions in Python.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3524-find-x-value-of-array-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -423,6 +424,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Queue
 |  |
