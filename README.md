@@ -467,4 +467,8 @@ My Leetcode Solutions in Python.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
