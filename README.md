@@ -471,4 +471,5 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0176-second-highest-salary) |
+| [1683-invalid-tweets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
