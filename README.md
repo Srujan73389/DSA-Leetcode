@@ -302,6 +302,7 @@ My Leetcode Solutions in Python.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2278-percentage-of-letter-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2409-count-days-spent-together](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2409-count-days-spent-together) |
