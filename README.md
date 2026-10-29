@@ -20,6 +20,7 @@ My Leetcode Solutions in Python.
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -229,6 +230,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0268-missing-number) |
