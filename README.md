@@ -67,6 +67,7 @@ My Leetcode Solutions in Python.
 | [1550-three-consecutive-odds](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1640-check-array-formation-through-concatenation](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -335,6 +336,7 @@ My Leetcode Solutions in Python.
 | [0036-valid-sudoku](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Memoization
 |  |
 | ------- |
