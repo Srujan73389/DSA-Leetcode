@@ -227,6 +227,7 @@ My Leetcode Solutions in Python.
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,6 +321,7 @@ My Leetcode Solutions in Python.
 | [2409-count-days-spent-together](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3174-clear-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
@@ -396,6 +398,7 @@ My Leetcode Solutions in Python.
 | [0867-transpose-matrix](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [3174-clear-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
