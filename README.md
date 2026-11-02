@@ -193,6 +193,7 @@ My Leetcode Solutions in Python.
 | [0881-boats-to-save-people](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -270,6 +271,7 @@ My Leetcode Solutions in Python.
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1903-largest-odd-number-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2409-count-days-spent-together](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2409-count-days-spent-together) |
@@ -315,6 +317,7 @@ My Leetcode Solutions in Python.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2351-first-letter-to-appear-twice) |
