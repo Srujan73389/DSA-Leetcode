@@ -14,8 +14,5 @@ class Solution:
                     return False
             else:
                 map_2[t[i]]=s[i]
-
-            
-            
         return True
         
