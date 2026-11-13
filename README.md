@@ -318,6 +318,7 @@ My Leetcode Solutions in Python.
 | [1768-merge-strings-alternately](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2278-percentage-of-letter-in-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
