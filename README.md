@@ -82,6 +82,7 @@ My Leetcode Solutions in Python.
 | [2784-check-if-array-is-good](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3524-find-x-value-of-array-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -124,6 +125,7 @@ My Leetcode Solutions in Python.
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2784-check-if-array-is-good](https://github.com/Srujan73389/DSA-Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3668-restore-finishing-order](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Srujan73389/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
