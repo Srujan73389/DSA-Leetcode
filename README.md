@@ -21,6 +21,7 @@ My Leetcode Solutions in Python.
 | [0053-maximum-subarray](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0118-pascals-triangle) |
@@ -417,6 +418,7 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0191-number-of-1-bits) |
@@ -513,4 +515,8 @@ My Leetcode Solutions in Python.
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Srujan73389/DSA-Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Srujan73389/DSA-Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
